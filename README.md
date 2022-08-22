@@ -1,1 +1,1 @@
-# dogs-slideshow-by-breed
+# Dogs slideshow by selecting breed
